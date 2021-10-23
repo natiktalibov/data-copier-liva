@@ -1,0 +1,5 @@
+#Upgrade PIP /home/oracle/Desktop/data-copier-live/data-copier-live-env/bin/python -m pip install --upgrade pip
+pandas==1.1.5
+mysql-connector-python==8.0.27
+psycopg2-binary==2.9.1
+
